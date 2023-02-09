@@ -33,7 +33,3 @@ btns.forEach(function (btn) {
     });
 
 });
-
-// window.addEventListener("DOMContentLoaded" , function(){
-//     alert("Welcome to counter application")
-// })
